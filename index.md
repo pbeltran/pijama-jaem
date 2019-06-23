@@ -119,7 +119,11 @@ Una actividad directa es la de detectar un error (Sorando, 2007):
 
 - Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2017). Análisis ontosemiótico de un episodio de dibujos animados con contenido matemático. En _CIVEOS 2_. [Enlace](http://enfoqueontosemiotico.ugr.es/civeos/beltran.pdf)
 
-# 
+# ¿Nos ponemos gafas matemáticas? {data-background-image="assets/images/bigbang.gif" data-background-opacity="0.75"}
+
+## 
+
+
 
 
 
