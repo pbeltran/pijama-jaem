@@ -119,12 +119,29 @@ Una actividad directa es la de detectar un error (Sorando, 2007):
 
 - Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2017). Análisis ontosemiótico de un episodio de dibujos animados con contenido matemático. En _CIVEOS 2_. [Enlace](http://enfoqueontosemiotico.ugr.es/civeos/beltran.pdf)
 
+
+# ¿Qué matemáticas hay aquí? {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
+
+##
+
 # ¿Nos ponemos gafas matemáticas? {data-background-image="assets/images/bigbang.gif" data-background-opacity="0.75"}
 
 ## 
 
+Situaciones
+Aplicaciones extra-matemáticas, tareas, ejercicios, etc.
+Lenguajes (en sentido amplio)
+Términos, expresiones, notaciones, gráficos, etc.
+Diversos registros (escrito, oral, gestual, etc.) y representaciones.
+Propiedades y otros enunciados
+Conceptos-definición, propiedades y proposiciones.
+Conceptos introducidos mediante definiciones, propiedades o proposiciones de estos conceptos.
+Procedimientos
+Algoritmos, operaciones, técnicas de cálculo, etc.
+Argumentos
+Usados para validar o explicar las proposiciones y procedimientos, deductivos o de otro tipo.
 
-
+##
 
 
 
@@ -153,22 +170,11 @@ Una actividad directa es la de detectar un error (Sorando, 2007):
 
 ## Lista de referencias
 
+Sección _Matemáticas animadas_ en [EDMA0-6](http://www.edma0-6.es/index.php/edma0-6).
 
+Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2018). Análisis del conteo como contenido matemático en un episodio de dibujos animados para educación infantil. _Unión, 52_, 236-249. [Enlace](http://asenmacformacion.com/ojs/index.php/union/article/view/276/pdf)
 
-
-##
-
-Beltrán-Pellicer, P. (2017). Una propuesta sobre probabilidad en educación infantil con juegos de mesa. _EDMA0-6: Educación Matemática en la Infancia, 6_(1), 53-61. [Enlace.](http://www.edma0-6.es/index.php/edma0-6/article/view/25/22)
-
-
-
-##
-
-Godino, J. D., Batanero, C., & Cañizares, M. J. (1987). _Azar y probabilidad_. Madrid: Síntesis. 
-
-Hunter, C. (2018). Alike and Different: Which One Doesn’t Belong? and More. _Vector, 60_(1), 17–20. 
-
-##
+Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2017). Análisis ontosemiótico de un episodio de dibujos animados con contenido matemático. En _CIVEOS 2_. [Enlace](http://enfoqueontosemiotico.ugr.es/civeos/beltran.pdf)
 
 
 ## Créditos
