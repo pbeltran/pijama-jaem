@@ -1,13 +1,14 @@
 ---
 title: Ponte el pijama <br> y a ver la tele
 subtitle:  Dibujos animados como recurso didáctico
-author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> José M. Muñoz-Escolano <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 6 de julio de 2019 <br> 19 JAEM -  A Coruña, Galicia.
+author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br>  <a href="https://scholar.google.es/citations?user=W9FLqb4AAAAJ&hl=es&oi=ao">José M. Muñoz-Escolano</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 6 de julio de 2019 <br> 19 JAEM -  A Coruña, Galicia.
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
 aspectratio: 169
 widescreen: true
 ---
+
 
 # Acceso a la presentación {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
 
