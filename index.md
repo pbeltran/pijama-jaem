@@ -87,6 +87,7 @@ Una actividad directa es la de detectar un error (Sorando, 2007):
 # Líneas de investigación {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
 
 ## Trabajos Fin de Grado
+Universidad de Zaragoza
 
 :::::::::::::: {.columns}
 
@@ -112,6 +113,7 @@ Una actividad directa es la de detectar un error (Sorando, 2007):
 
 
 
+
 ## Artículos y congresos
 
 - Sección _Matemáticas animadas_ en [EDMA0-6](http://www.edma0-6.es/index.php/edma0-6).
@@ -120,6 +122,7 @@ Una actividad directa es la de detectar un error (Sorando, 2007):
 
 - Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2017). Análisis ontosemiótico de un episodio de dibujos animados con contenido matemático. En _CIVEOS 2_. [Enlace](http://enfoqueontosemiotico.ugr.es/civeos/beltran.pdf)
 
+- JEMA
 
 # ¿Qué matemáticas hay aquí? {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
 
