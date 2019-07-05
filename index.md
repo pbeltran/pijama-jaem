@@ -169,6 +169,37 @@ Puesta en común...
 - Relacionada con el desarrollo del sentido numérico, numeracy, competencia matemática,... 
 :::
 
+## Tipos de estimación {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
+
+:::incremental
+- **Estimación en cálculo**: se emiten juicios sobre los resultados de operaciones aritméticas. Redondeo, truncamiento, descomposición, compensación, cambio de representación de los números,.
+- **Estimación en medida**: se emiten juicios sobre el valor de una **cantidad de magnitud**.
+:::
+
+## Estimación en medida {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
+
+>Sentido de las situaciones	
+
+- **Cálculo**: dado una colección o un objeto, encontrar un resultado numérico como estimación.
+- **Construcción**: dada una medida, construir una colección o un objeto que corresponda aproximadamente con esa medida. 
+
+## Estimación en medida {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
+
+>Elementos clave
+
+- **Objeto a medir**: puede estar presente o ausente.
+- **Unidad de medida**: puede estar presente o ausente.
+
+## Estimación en medida {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
+
+>Procedimientos
+
+- **Comparación**: igualdad, múltiplos o divisores respecto a una unidad de medida.
+- **Descomposición-recomposición**: en partes iguales, en una parte más su complementario o en partes diferentes.
+- **Técnicas indirectas**: empleo de fórmulas de áreas, volúmenes, Tales, Pitágoras, etc.
+- **Reajuste**: se estima la cantidad que luego se reajusta con algún criterio. 
+
+
 ## Cyberchase {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
 
 :::::::::::::: {.columns}
