@@ -255,7 +255,7 @@ _Compartir el conocimiento de forma libre es una buena práctica._
 
 En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (P. Beltrán-Pellicer y J. Mª. Muñoz-Escolano) y enlazando a [https://pbeltran.github.io/pijama-jaem](https://pbeltran.github.io/pijama-jaem).
 
-_Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
+_Siéntete libre de trabajar con este material y de contactar para compartir tus reflexiones._
 
 ##
 
