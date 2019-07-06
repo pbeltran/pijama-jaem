@@ -253,7 +253,7 @@ Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2017). Anál
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer y José Mª Muñoz-Escolano) y poniendo un enlace a [https://pbeltran.github.io/elemprob1](https://pbeltran.github.io/elemprob1).
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (P. Beltrán-Pellicer y J. Mª. Muñoz-Escolano) y enlazando a [https://pbeltran.github.io/elemprob1](https://pbeltran.github.io/elemprob1).
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
